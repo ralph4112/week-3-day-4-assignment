@@ -1,2 +1,3 @@
 Feature A: Initial setup for rebase demo.
 Feature B: Added second capability to the demo.
+Feature C: Finalized the rebase demo feature.
