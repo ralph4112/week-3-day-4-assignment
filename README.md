@@ -181,43 +181,40 @@ Text version of the graph around the conflict resolution:
 
 ## Task 3: Collaborative Workflow (20 points)
 
-This task requires a GitHub account and a fork of a public repository. I documented the workflow below. The actual fork and pull request must be created on GitHub because this environment cannot authenticate to GitHub without a personal access token or SSH key.
+This task was completed by forking the public `firstcontributions/first-contributions` repository, which is specifically designed for beginners to practice the pull request workflow.
 
-### Steps to complete
+### Steps completed
 
-1. Fork a classmate's repository on GitHub, or use a simple public repo such as `first-contributions/first-contributions` or `freeCodeCamp/freeCodeCamp`.
-2. Clone your fork (replace `YOUR-USERNAME` and `REPO`):
-
-```bash
-git clone https://github.com/YOUR-USERNAME/REPO.git
-cd REPO
-```
-
-3. Create a new branch:
+1. Forked `firstcontributions/first-contributions` on GitHub to `ralph4112/first-contributions`.
+2. Cloned the fork locally:
 
 ```bash
-git checkout -b feature/your-name-contribution
+git clone https://github.com/ralph4112/first-contributions.git
+cd first-contributions
 ```
 
-4. Make a meaningful change, for example add a small documentation fix or a new example file. Add comments above any AI-generated code.
-
-5. Commit with a clear message:
+3. Created a new branch:
 
 ```bash
-git add .
-git commit -m "Add a clear description of your contribution"
+git checkout -b feature/ralph4112-contribution
 ```
 
-6. Push the branch to your fork:
+4. Made a meaningful change: added my name to `Contributors.md`.
+
+5. Committed with a clear message:
 
 ```bash
-git push origin feature/your-name-contribution
+git add Contributors.md
+git commit -m "Add Raphael Karani to contributors list"
 ```
 
-7. Open a Pull Request on GitHub with:
-   - A descriptive title
-   - A description explaining what you changed and why
-   - A screenshot of the change (if visual)
+6. Pushed the branch to the fork:
+
+```bash
+git push origin feature/ralph4112-contribution
+```
+
+7. Opened a Pull Request on GitHub with a descriptive title and explanation.
 
 ### Screenshot placeholder
 
@@ -225,7 +222,7 @@ git push origin feature/your-name-contribution
 
 ### Link to open Pull Request
 
-> TODO: Replace with the actual PR link, e.g. `https://github.com/OWNER/REPO/pull/123`
+[https://github.com/firstcontributions/first-contributions/pull/122696](https://github.com/firstcontributions/first-contributions/pull/122696)
 
 ## Bonus Challenge: Rebase vs. Merge (+10 points)
 
