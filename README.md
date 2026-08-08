@@ -19,7 +19,7 @@ Two starter files were created:
 
 AI-generated code in this project includes comments above it explaining what it does.
 
-## Task 1: Branching and Merging (25 points)
+## Task 1: Branching and Merging 
 
 ### Commits on `main`
 
@@ -72,7 +72,7 @@ Expected graph:
 * 48332b6 Add index.html with basic structure
 ```
 
-## Task 2: Merge Conflict Resolution (25 points)
+## Task 2: Merge Conflict Resolution
 
 Two branches were created from `main` and edited the same line in `styles.css`.
 
@@ -179,7 +179,7 @@ Text version of the graph around the conflict resolution:
 *   30fbf3a Merge feature/footer into main
 ```
 
-## Task 3: Collaborative Workflow (20 points)
+## Task 3: Collaborative Workflow
 
 This task was completed by forking the public `firstcontributions/first-contributions` repository, which is specifically designed for beginners to practice the pull request workflow.
 
@@ -224,7 +224,7 @@ git push origin feature/ralph4112-contribution
 
 [https://github.com/firstcontributions/first-contributions/pull/122696](https://github.com/firstcontributions/first-contributions/pull/122696)
 
-## Bonus Challenge: Rebase vs. Merge (+10 points)
+
 
 ### Rebase scenario
 
