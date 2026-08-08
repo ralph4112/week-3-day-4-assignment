@@ -1,0 +1,5 @@
+# This file was created to demonstrate the git rebase workflow in the bonus section.
+# It contains three lines added across three separate commits on a feature branch.
+Feature A: Initial setup for rebase demo.
+Feature B: Added second capability to the demo.
+Feature C: Finalized the rebase demo feature.

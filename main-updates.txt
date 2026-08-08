@@ -1,2 +1,4 @@
+# This file was created to simulate commits on main while a feature branch was in progress.
+# It is used in the bonus rebase vs. merge comparison.
 Main update 1: Added while feature branch was in progress.
 Main update 2: Continued main development.
