@@ -216,9 +216,6 @@ git push origin feature/ralph4112-contribution
 
 7. Opened a Pull Request on GitHub with a descriptive title and explanation.
 
-### Screenshot placeholder
-
-> TODO: Insert a screenshot of the open Pull Request on GitHub here. The screenshot should show the PR title, description, and changed files.
 
 ### Link to open Pull Request
 
@@ -318,9 +315,4 @@ Use **rebase** when you want a clean, linear history before merging a feature br
 * 48332b6 Add index.html with basic structure
 ```
 
-## Submission checklist
 
-- [ ] Repository pushed to GitHub as `week-3-day-4-assignment`
-- [ ] README includes all required screenshots
-- [ ] Task 3 Pull Request link added to README
-- [ ] Link shared on Discord #assignments channel
